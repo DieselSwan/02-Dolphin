@@ -1,0 +1,10 @@
+{
+  "name": "02-Dolphin",
+  "description": "Main theme from Square-Enix's Playonline launcher for FFXI",
+  "author": "DieselSwan",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
